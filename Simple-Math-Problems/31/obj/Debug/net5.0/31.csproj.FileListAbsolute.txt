@@ -1,0 +1,16 @@
+C:\Users\muham\source\repos\31\31\bin\Debug\net5.0\31.exe
+C:\Users\muham\source\repos\31\31\bin\Debug\net5.0\31.deps.json
+C:\Users\muham\source\repos\31\31\bin\Debug\net5.0\31.runtimeconfig.json
+C:\Users\muham\source\repos\31\31\bin\Debug\net5.0\31.runtimeconfig.dev.json
+C:\Users\muham\source\repos\31\31\bin\Debug\net5.0\31.dll
+C:\Users\muham\source\repos\31\31\bin\Debug\net5.0\ref\31.dll
+C:\Users\muham\source\repos\31\31\bin\Debug\net5.0\31.pdb
+C:\Users\muham\source\repos\31\31\obj\Debug\net5.0\31.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\31\31\obj\Debug\net5.0\31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\31\31\obj\Debug\net5.0\31.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\31\31\obj\Debug\net5.0\31.AssemblyInfo.cs
+C:\Users\muham\source\repos\31\31\obj\Debug\net5.0\31.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\31\31\obj\Debug\net5.0\31.dll
+C:\Users\muham\source\repos\31\31\obj\Debug\net5.0\ref\31.dll
+C:\Users\muham\source\repos\31\31\obj\Debug\net5.0\31.pdb
+C:\Users\muham\source\repos\31\31\obj\Debug\net5.0\31.genruntimeconfig.cache
